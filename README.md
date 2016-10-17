@@ -1,5 +1,4 @@
 # Columbo
-Do some detective work on src attributes loaded from web pages
 
 Columbo determines where page elements that utilize a src attribute (images, 
 audio, videos, javascript, etc) loaded for a web page are actually served 
