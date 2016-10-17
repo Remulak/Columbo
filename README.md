@@ -27,4 +27,6 @@ Dependencies:
 
 beautifulsoup4
 
+psutil
+
 tldextract
