@@ -20,3 +20,7 @@ optional arguments:
                         per line)
   -i INDIVIDUAL, --individual INDIVIDUAL
                         single URL to process
+
+Dependencies:
+beautifulsoup4
+tldextract
